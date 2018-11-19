@@ -1,0 +1,2 @@
+# MazeDoc
+documentación
